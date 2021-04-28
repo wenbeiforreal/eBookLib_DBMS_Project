@@ -17,3 +17,13 @@ mySQL, JDBC, JSP, XML, Clover ETL, Google Sheets, Excel Power Query
 
 ### UML
 [![e-Book-UML.jpg](https://i.postimg.cc/VLwB845c/e-Book-UML.jpg)](https://postimg.cc/kDjtNQxj)
+
+### Data Warehousing
+* [New York Times Best Sellers - Kaggle](https://www.kaggle.com/cmenca/new-york-times-hardcover-fiction-best-sellers)
+  * Contains information about hardcover fiction bestsellers over a period of 10 years
+  * Collected data includes the book title, author, the date of the best seller list, the published date of the list, the book description, the rank (this week and last week), the publisher, number of weeks on the list, and the price
+* [Goodreads Books - Kaggle](https://www.kaggle.com/jealousleopard/goodreadsbooks)
+  * Contains information about books from the Goodreads API, ISBNs for each book, and the average rating for each book 
+  * ISBN is the primary key from the query table, which makes correlation between the two tables easier
+
+
