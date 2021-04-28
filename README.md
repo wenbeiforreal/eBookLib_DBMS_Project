@@ -13,6 +13,7 @@
 * The book data source is downloaded from Kaggle
   * https://www.kaggle.com/bahramjannesarr/goodreads-book-datasets-10m
   * There are 18 original attributes in the source file, including basic information for a book, such as Book name, ISBN, author, publishers.
-  * The data was imported into Author, Publisher and Book tables in our database, which contained around **100k rows.
+  * The data was imported into Author, Publisher and Book tables in our database, which contained around **100k rows**.
 
-### 
+### UML
+![UML](eBook_UML.JPG)
