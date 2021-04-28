@@ -16,4 +16,4 @@
   * The data was imported into Author, Publisher and Book tables in our database, which contained around **100k rows**.
 
 ### UML
-![UML](/SP21_Projects/eBook_UML.png)
+![UML](C:/Users/wbzam/Downloads/eBook_UML.pdf)
