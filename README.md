@@ -26,4 +26,6 @@ mySQL, JDBC, JSP, XML, Clover ETL, Google Sheets, Excel Power Query
   * Contains information about books from the Goodreads API, ISBNs for each book, and the average rating for each book 
   * ISBN is the primary key from the query table, which makes correlation between the two tables easier
 
-
+### Analysis
+* Correlation between the best sellers and number of pages
+[![Capture.jpg](https://i.postimg.cc/YCvsQxFZ/Capture.jpg)](https://postimg.cc/G41KCGqx)
