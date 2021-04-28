@@ -17,5 +17,5 @@ mySQL, JDBC, JSP, XML, Clover ETL, Google Sheets, Excel Power Query
 
 <details>
   <summary>UML</summary>
-[![e-Book-UML.jpg](https://i.postimg.cc/VLwB845c/e-Book-UML.jpg)](https://postimg.cc/kDjtNQxj)
+ [e-Book-UML.jpg](https://postimg.cc/kDjtNQxj)
  </details>
