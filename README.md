@@ -28,4 +28,11 @@ mySQL, JDBC, JSP, XML, Clover ETL, Google Sheets, Excel Power Query
 
 ### Analysis
 * Correlation between the best sellers and number of pages
+ * Almost half the best selling books are between 200-400 pages. This gives an insight of what kind of book lengths people prefer reading more. Longer books (>800 pages) rarely make it to best sellers, so we can definitely remove/reduce these books from the database. In order to attract more users to finish reading books and keep utilizing the platform, ideally, more books with pages between 100-500 should be uploaded.
+
 [![Capture.jpg](https://i.postimg.cc/YCvsQxFZ/Capture.jpg)](https://postimg.cc/G41KCGqx)
+
+* Correlation between the best sellers and the ratings
+ * The maximum books in the best seller book collection have a rating between 3.5 and 4.5. There are only four books that have a rating between 4.5-5, and as a library, we can definitely strive to increase the count of those books. Only one book has a rating below 3.0, which gives an insight into the quality of books in the database. 
+
+[![Capture.jpg](https://i.postimg.cc/nrHHLWC6/Capture.jpg)](https://postimg.cc/YGscnbN3)
