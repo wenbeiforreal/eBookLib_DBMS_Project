@@ -16,4 +16,4 @@ mySQL, JDBC, JSP, XML, Clover ETL, Google Sheets, Excel Power Query
 * The data was imported into Author, Publisher and Book tables in our database, which contained around **100k rows**.
 
 ### UML
-![Alt Text](/C:/Users/wbzam/OneDrive/Desktop/SP21_Projects/image/eBook_UML.png "uml")
+![e-Book-UML.jpg](https://postimg.cc/kDjtNQxj)
