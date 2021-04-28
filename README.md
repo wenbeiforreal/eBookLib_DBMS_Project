@@ -15,7 +15,5 @@ mySQL, JDBC, JSP, XML, Clover ETL, Google Sheets, Excel Power Query
 * There are 18 original attributes in the source file, including basic information for a book, such as Book name, ISBN, author, publishers.
 * The data was imported into Author, Publisher and Book tables in our database, which contained around **100k rows**.
 
-<details>
-  <summary>UML</summary>
- [e-Book-UML.jpg](https://postimg.cc/kDjtNQxj)
- </details>
+### UML
+[![e-Book-UML.jpg](https://i.postimg.cc/VLwB845c/e-Book-UML.jpg)](https://postimg.cc/kDjtNQxj)
