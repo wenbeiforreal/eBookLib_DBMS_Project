@@ -8,7 +8,7 @@ This project is focusing on an eBook Library -- an online platform that breaks t
 * Advanced functionality : Personalized search system where users can borrow books and selectively perform searches
 
 ### Technologies Used
-mySQL, JDBC, JSP, XML, Clover ETL, Google Sheets, Excel Power Query 
+MySQL, JDBC, JSP, XML, Clover ETL, Google Sheets, Excel Power Query 
 
 ### Database Used
 * [Kaggle data source](https://www.kaggle.com/bahramjannesarr/goodreads-book-datasets-10m)
